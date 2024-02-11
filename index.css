@@ -16,7 +16,7 @@
 .parent{
     background-color: var(--Dark-Grey);
     width: 360px;
-    height: 580px;
+    height: 600px;
     margin: auto;
     position: relative;
     border-radius: 10px;
@@ -25,19 +25,19 @@
     background-image: url(assets/images/avatar-jessica.jpeg);
     background-size: 100%;
     margin-top: 40px;
-    width: 75px;
-    height: 75px;
+    width: 85px;
+    height: 85px;
     position: absolute;
     left: 50%;
     transform: translate(-50%, 0);
-    border-radius: 50px;
+    border-radius: 50%;
 }
 h1{
     position: absolute;
     left: 50%;
     transform: translate(-50%, 0);
     color: var(--White);
-    margin-top: 140px;
+    margin-top: 150px;
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 0;
@@ -47,7 +47,7 @@ p{
     left: 50%;
     transform: translate(-50%, 0);
     color: var(--Green);
-    margin-top: 180px;
+    margin-top: 190px;
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 0;
@@ -57,7 +57,7 @@ p{
     height: 30px;
     color: var(--White);
     margin-left: 25px;
-    margin-top: 225px;
+    margin-top: 235px;
     font-weight: 400;
 }
 .social-links{
@@ -65,7 +65,7 @@ p{
     left: 50%;
     transform: translate(-50%, 0);
     font-weight: 700;
-    margin-top: 265px;
+    margin-top: 275px;
 }
 .social-button{
     text-decoration: none;
